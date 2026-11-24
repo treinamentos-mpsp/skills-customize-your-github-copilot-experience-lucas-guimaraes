@@ -65,6 +65,13 @@
       "description": "Building REST APIs with the FastAPI framework: routes, parameters, Pydantic models, and CRUD operations",
       "path": "assignments/rest-apis-fastapi",
       "dueDate": "2026-12-01"
+    },
+    {
+      "id": "functions-and-modules",
+      "title": "Functions and Modules",
+      "description": "Organizing code with functions and modules: parameters, default values, reusable modules, and imports",
+      "path": "assignments/functions-and-modules",
+      "dueDate": "2026-12-01"
     }
   ]
 }
